@@ -1,2 +1,2 @@
-# Crian-a-Educada
+# CriançaEducada
 Exercício de PC1
