@@ -1,2 +1,2 @@
-# CriançaEducada
+# criançaeducada
 Exercício de PC1
